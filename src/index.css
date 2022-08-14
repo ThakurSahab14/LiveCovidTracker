@@ -157,6 +157,9 @@ footer p{
     font-weight: none;
     line-height:30px;
     color: rgb(132, 128, 128);
+    position: fixed;
+    left: 0;
+    bottom: 0;
 }
 
 .nav-link
